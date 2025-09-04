@@ -1,0 +1,19 @@
+/* Vazirmatn Variable Font */
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('webfonts/Vazirmatn[wght].woff2') format('woff2 supports variations'),
+    url('webfonts/Vazirmatn[wght].woff2') format('woff2-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+.vazirmatn-thin { font-weight: 100; }
+.vazirmatn-extra-light { font-weight: 200; }
+.vazirmatn-light { font-weight: 300; }
+.vazirmatn-regular { font-weight: 400; }
+.vazirmatn-medium { font-weight: 500; }
+.vazirmatn-semi-bold { font-weight: 600; }
+.vazirmatn-bold { font-weight: 700; }
+.vazirmatn-extra-bold { font-weight: 800; }
+.vazirmatn-black { font-weight: 900; }
